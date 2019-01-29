@@ -1,7 +1,8 @@
-#Fizzbuzz-squares
+# Fizzbuzz-squares
 <p>I have used the HTML and JavaScript to make some squares constraint by some rules that I will explain below.</p>
 <p>You can see the live preview accessing:<a href="https://negrut112.github.io/JS-fizzbuzz-squares/">https://negrut112.github.io/JS-fizzbuzz-squares/</a><br>
-<a href="https://i.imgur.com/If5XMoy.jpg">https://i.imgur.com/If5XMoy.jpg</a></p>
+<img src="https://i.imgur.com/If5XMoy.jpg">
+
 ## HTML
 <p>I have used the HTML to define the area where I’m working defining the height, width and the border style:</p>
 <p>&lt;canvas id=“myCanvas” height=“310” width=“500” style=“border: 1px solid black”&gt;&lt;/canvas&gt;</p>
