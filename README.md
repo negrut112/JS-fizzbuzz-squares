@@ -9,7 +9,7 @@
 
 ## JavaScript
 
-<p>Using a if condition, I generated 15 squares with 40px side length, arranged on diagonal of the canva.<br>
+<p>Using a <b><i>if</i></b> condition, I generated 15 squares with 40px side length, arranged on diagonal of the canva.<br>
 For each square I assigned a different color according to its divisibilty of a specific number.</p>
 <p>To check this I ll give you an example: If we divide the 10th square by 2 we get 5 with 0 remainder, it means that 10 is divisible with 5, because the remainder is 0. For this we have a specfic color otherwise we would had another color.</p>
 
