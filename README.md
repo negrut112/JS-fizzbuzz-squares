@@ -1,5 +1,5 @@
 # Fizzbuzz-squares
-<p>I have used the HTML and JavaScript to make some squares constraint by some rules that I will explain below.</p>
+<p>I have used the HTML and JavaScript to make some squares, constraint by some rules that I will explain below.</p>
 <p>You can see the live preview accessing:<a href="https://negrut112.github.io/JS-fizzbuzz-squares/">https://negrut112.github.io/JS-fizzbuzz-squares/</a><br>
 <img src="https://i.imgur.com/If5XMoy.jpg">
 
